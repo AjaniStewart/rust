@@ -1,0 +1,1 @@
+This repository contains my projects in Rust. I am following [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) book. I may also try to implement implement my other projects in Rust.
